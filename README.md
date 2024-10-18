@@ -1,8 +1,8 @@
-# HiveLab-Dashboard
 <p align="center">
 <img width="300px" src="https://github.com/user-attachments/assets/f9d8a4fb-54d5-4504-9028-1ea1cdcba202"></img>
 </p>
 
+# HiveLab-Dashboard
 A sleek, modern, fast web UI for manageing users on your lab
 
 ## Getting Started
