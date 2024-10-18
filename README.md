@@ -1,6 +1,7 @@
 # HiveLab-Dashboard
-
-![371378836-3f34291b-dca5-401f-bec3-39ce55b458aa](https://github.com/user-attachments/assets/f9d8a4fb-54d5-4504-9028-1ea1cdcba202)
+<p align="center">
+<img width="300px" src="[https://github.com/user-attachments/assets/3f34291b-dca5-401f-bec3-39ce55b458aa](https://github.com/user-attachments/assets/f9d8a4fb-54d5-4504-9028-1ea1cdcba202)"></img>
+</p>
 
 A sleek, modern, fast web UI for manageing users on your lab
 
