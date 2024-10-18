@@ -29,13 +29,13 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
         <div>
           <div className="flex justify-center items-center">
             <img
-              className="h-24 w-auto object-contain"
+              className="h-50 w-auto object-contain"
               src="https://private-user-images.githubusercontent.com/34868944/371378836-3f34291b-dca5-401f-bec3-39ce55b458aa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNjk0MzAsIm5iZiI6MTcyOTI2OTEzMCwicGF0aCI6Ii8zNDg2ODk0NC8zNzEzNzg4MzYtM2YzNDI5MWItZGNhNS00MDFmLWJlYzMtMzljZTU1YjQ1OGFhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDE2MzIxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYzM1YzVhNDdjOTk2YTVlZjQwZjAxZTAxYzY0YmY2YTZjZDRmOWU5N2RiNmQ1YzEwN2U1NjFmYjY2Zjk4MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pk_xsWW8dY0yjSqjKroSEmoIa1yF7ghVGx1eFm_cmIA"
               alt="HiveLab Logo"
             />
           </div>
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-100">
-            Sign in to HiveLab Dashboard
+            Sign in to HiveLab
           </h2>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
